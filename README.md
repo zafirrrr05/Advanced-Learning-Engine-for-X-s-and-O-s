@@ -1,4 +1,4 @@
-# sport_tactical_ai
+# Advanced-Learning-Engine-for-X-s-and-O-s (A.L.E.X)
 
 Pipeline for tactical analysis in sports using detection, tracking and
 self-supervised learning.
@@ -91,5 +91,6 @@ assignment.
   pipeline.
 * The output format is intentionally minimal so it can be easily stored under
   `data/detections/` and reused by other components of the project.
+
 
 
